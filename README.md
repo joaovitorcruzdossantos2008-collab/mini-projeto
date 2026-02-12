@@ -16,15 +16,3 @@ Atributo adicional dataValidade
 Impressão de objetos e listas no console
 Tecnologias:
 Java • POO • ArrayList • Herança • Construtores • Polimorfismo
-💼 LinkedIn (postagem profissional)
-🚀 Projeto em Java – POO na prática
-Desenvolvi um projeto em Java aplicando conceitos fundamentais de Programação Orientada a Objetos:
-✔️ Criação de classes com atributos e construtores
-✔️ Implementação de ArrayList para gerenciamento de objetos
-✔️ Sobrescrita do método toString()
-✔️ Herança entre classes (Produto → ProdutoPerecivel)
-✔️ Uso de super() para reaproveitamento de código
-✔️ Manipulação de listas, índices e objetos
-Projeto focado em boas práticas de estruturação, organização de código e modelagem de classes.
-📚 Tecnologias: Java | POO | ArrayList | Herança | Construtores
-💡 Sempre evoluindo e praticando lógica e estrutura de sistemas orientados a objetos.
